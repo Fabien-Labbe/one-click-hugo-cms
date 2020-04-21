@@ -1,7 +1,7 @@
 ---
-title: "French tech rouen normandy"
+title: "French Tech Rouen Normandy"
 image: /img/home.jpg
-logo: \img\LNS_FT_ROUEN_NORMANDY.svg
+logo: \img\LNS_FT_ROUEN_NORMANDY225.png
 intro:
     text: "Ca y est ! French Tech Rouen Normandy est ociellement un communauté French Tech labélisée. La French Tech redémarre sur de nouvelles bases : </br>
         1. La proximité : fini la French Tech régionnale, bienvenue à Rouen French Tech. </br>
